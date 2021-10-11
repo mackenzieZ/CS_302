@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -g  -rdynamic CMakeFiles/delimiters.dir/delimiters.cpp.o  -o delimiters 

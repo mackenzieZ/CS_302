@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Kenzie/CS_302/proj1/Stack.h
+stdexcept
+-
+iostream
+-
+
+/mnt/c/Users/Kenzie/CS_302/proj1/StackLinked.cpp
+StackLinked.h
+/mnt/c/Users/Kenzie/CS_302/proj1/StackLinked.h
+iostream
+-
+
+/mnt/c/Users/Kenzie/CS_302/proj1/StackLinked.h
+stdexcept
+-
+iostream
+-
+Stack.h
+/mnt/c/Users/Kenzie/CS_302/proj1/Stack.h
+
+/mnt/c/Users/Kenzie/CS_302/proj1/config.h
+
+/mnt/c/Users/Kenzie/CS_302/proj1/delimiters.cpp
+config.h
+/mnt/c/Users/Kenzie/CS_302/proj1/config.h
+iostream
+-
+fstream
+-
+StackLinked.cpp
+/mnt/c/Users/Kenzie/CS_302/proj1/StackLinked.cpp
+StackArray.cpp
+/mnt/c/Users/Kenzie/CS_302/proj1/StackArray.cpp
+

@@ -1,0 +1,131 @@
+=====Results======
++ Run 1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+        Sorting THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       105	           890
+                          Swaps 	      8675	           999
+                   Comparisions 	       999	           999
+    Sorting TEN_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       105	           890
+                          Swaps 	    129113	          1998
+                   Comparisions 	     10998	          1998
+Sorting HUNDRED_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       105	           890
+                          Swaps 	   1665501	          2997
+                   Comparisions 	    110997	          2997
++ Run 2 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+        Sorting THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       106	           896
+                          Swaps 	      8715	          3996
+                   Comparisions 	       999	          3996
+    Sorting TEN_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       106	           896
+                          Swaps 	    129278	          4995
+                   Comparisions 	     10998	          4995
+Sorting HUNDRED_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       106	           896
+                          Swaps 	   1665807	          5994
+                   Comparisions 	    110997	          5994
++ Run 3 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+        Sorting THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       118	           902
+                          Swaps 	      8731	          6993
+                   Comparisions 	       999	          6993
+    Sorting TEN_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       118	           902
+                          Swaps 	    129236	          7992
+                   Comparisions 	     10998	          7992
+Sorting HUNDRED_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       118	           902
+                          Swaps 	   1665656	          8991
+                   Comparisions 	    110997	          8991
++ Run 4 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+        Sorting THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       107	           890
+                          Swaps 	      8717	          9990
+                   Comparisions 	       999	          9990
+    Sorting TEN_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       107	           890
+                          Swaps 	    129128	         10989
+                   Comparisions 	     10998	         10989
+Sorting HUNDRED_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       107	           890
+                          Swaps 	   1665590	         11988
+                   Comparisions 	    110997	         11988
++ Run 5 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+        Sorting THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	        97	           884
+                          Swaps 	      8684	         12987
+                   Comparisions 	       999	         12987
+    Sorting TEN_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	        97	           884
+                          Swaps 	    129128	         13986
+                   Comparisions 	     10998	         13986
+Sorting HUNDRED_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	        97	           884
+                          Swaps 	   1665777	         14985
+                   Comparisions 	    110997	         14985
++ Run 6 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+        Sorting THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       106	           895
+                          Swaps 	      8677	         15984
+                   Comparisions 	       999	         15984
+    Sorting TEN_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       106	           895
+                          Swaps 	    129130	         16983
+                   Comparisions 	     10998	         16983
+Sorting HUNDRED_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       106	           895
+                          Swaps 	   1665550	         17982
+                   Comparisions 	    110997	         17982
++ Run 7 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+        Sorting THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       139	           983
+                          Swaps 	      8703	         18981
+                   Comparisions 	       999	         18981
+    Sorting TEN_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       139	           983
+                          Swaps 	    129229	         19980
+                   Comparisions 	     10998	         19980
+Sorting HUNDRED_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       139	           983
+                          Swaps 	   1665912	         20979
+                   Comparisions 	    110997	         20979
++ Run 8 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+        Sorting THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	        95	           812
+                          Swaps 	      8728	         21978
+                   Comparisions 	       999	         21978
+    Sorting TEN_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	        95	           812
+                          Swaps 	    129250	         22977
+                   Comparisions 	     10998	         22977
+Sorting HUNDRED_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	        95	           812
+                          Swaps 	   1665767	         23976
+                   Comparisions 	    110997	         23976
++ Run 9 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+        Sorting THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       108	           885
+                          Swaps 	      8721	         24975
+                   Comparisions 	       999	         24975
+    Sorting TEN_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       108	           885
+                          Swaps 	    129187	         25974
+                   Comparisions 	     10998	         25974
+Sorting HUNDRED_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	       108	           885
+                          Swaps 	   1665264	         26973
+                   Comparisions 	    110997	         26973
++ Run 10 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+        Sorting THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	        92	           944
+                          Swaps 	      8710	         27972
+                   Comparisions 	       999	         27972
+    Sorting TEN_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	        92	           944
+                          Swaps 	    129172	         28971
+                   Comparisions 	     10998	         28971
+Sorting HUNDRED_THOUSAND values 	Merge Sort 	Selection Sort
+            Duration (microsec) 	        92	           944
+                          Swaps 	   1665777	         29970
+                   Comparisions 	    110997	         29970

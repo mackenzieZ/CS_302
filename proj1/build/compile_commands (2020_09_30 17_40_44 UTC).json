@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/c/Users/Kenzie/CS_302/proj1/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/delimiters.dir/delimiters.cpp.o -c /mnt/c/Users/Kenzie/CS_302/proj1/delimiters.cpp",
+  "file": "/mnt/c/Users/Kenzie/CS_302/proj1/delimiters.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Kenzie/CS_302/proj1/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/postfix.dir/postfix.cpp.o -c /mnt/c/Users/Kenzie/CS_302/proj1/postfix.cpp",
+  "file": "/mnt/c/Users/Kenzie/CS_302/proj1/postfix.cpp"
+}
+]

@@ -1,0 +1,13 @@
+=====Averages======
+        Sorting THOUSAND values 	Merge Sort 		Selection Sort
+               Average Duration 	       107	            898
+                  Average Swaps          	8706          14485
+           Average Comparisions          	999          14485
+    Sorting TEN_THOUSAND values 	Merge Sort 		Selection Sort
+    Average Duration (microsec) 	      1335	           880
+                  Average Swaps 	    129185	         15484
+           Average Comparisions 	     10998	         15484
+Sorting HUNDRED_THOUSAND values 	Merge Sort 		Selection Sort
+    Average Duration (microsec) 	     16446	           955
+                  Average Swaps 	1.66566e+06	         16483
+           Average Comparisions 	    110997	         16483

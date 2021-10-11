@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/kenza/CS_302/proj3/BinarySearchTree.h
+iostream
+-
+
+/mnt/c/Users/kenza/CS_302/proj3/testing.cpp
+BinarySearchTree.h
+/mnt/c/Users/kenza/CS_302/proj3/BinarySearchTree.h
+iostream
+-
+cstdlib
+-
+ctime
+-
+

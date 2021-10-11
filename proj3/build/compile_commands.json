@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/kenza/CS_302/proj3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/proj3.dir/testing.cpp.o -c /mnt/c/Users/kenza/CS_302/proj3/testing.cpp",
+  "file": "/mnt/c/Users/kenza/CS_302/proj3/testing.cpp"
+}
+]
